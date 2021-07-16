@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-#include "Persona.h"
+#include "colaborador5.h"
 
 
 void GetInfor(Persona per){

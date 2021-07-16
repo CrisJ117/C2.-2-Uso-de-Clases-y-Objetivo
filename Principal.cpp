@@ -1,10 +1,10 @@
 #include <iostream>
 #include <stdlib.h>
-#include "Persona.h"
-#include "colaborador1.h"
-#include "colaborador2.h"
-#include "colaborador3.h"
-#include "colaborador4.h"
+#include "colaborador1.h" // Genesi Simisterra
+#include "colaborador2.h" // Kevin Antonio Tapuy Cañola
+#include "colaborador3.h" // 
+#include "colaborador4.h" // Clarisa Ortiz Castillo
+#include "colaborador5.h" // Cristopher Justyn Tigua Vivero
 using namespace std;
 
 int main() {
@@ -23,16 +23,17 @@ int main() {
         system("cls");
  
         std::cout<<"       "<<endl;
-	    std::cout<<"         ==================================MENU==========================================="<<endl;
-	    std::cout<<"         <<            1. Ingresar y mostrar los datos personales    					   >>"<<endl;
-	    std::cout<<"         <<            2. Mostrar la edad de la persona          						     >>"<<endl;
-	    std::cout<<"         >>            3. Mostrar el indice comporal y felicilitarlo si se encuentra bien    <<"<<endl;
-	    std::cout<<"         <<            4. Guardar los datos en un archivo .txt   					       >>"<<endl;
-	    std::cout<<"         >>            5. Recuperar los datos desde el archivo  .txt     				      <<"<<endl;
-	    std::cout<<"         >>            6. SALIR                      										  <<"<<endl;
-	    std::cout<<"         ==================================================================================="<<endl;
+	    std::cout<<"         ==================================MENU=============================================="<<endl;
+	    std::cout<<"         <<            1. Ingresar y mostrar los datos personales    			   >>"<<endl;
+	    std::cout<<"         <<            2. Mostrar la edad de la persona                                    >>"<<endl;
+	    std::cout<<"         >>            3. Mostrar el indice comporal y felicilitarlo si se encuentra bien  <<"<<endl;
+	    std::cout<<"         <<            4. Guardar los datos en un archivo .txt   			   >>"<<endl;
+	    std::cout<<"         >>            5. Recuperar los datos desde el archivo  .txt     		   <<"<<endl;
+	    std::cout<<"         >>            6. SALIR                      					   <<"<<endl;
+	    std::cout<<"         ===================================================================================="<<endl;
         std::cout << "\nIngrese una opcion del menu: "<<endl;
         cin >> opcion;
+        
         
         switch (opcion) {
             case 1:

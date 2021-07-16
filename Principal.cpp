@@ -26,7 +26,7 @@ int main() {
 	    std::cout<<"         ==================================MENU==========================================="<<endl;
 	    std::cout<<"         <<            1. Ingresar y mostrar los datos personales    					   >>"<<endl;
 	    std::cout<<"         <<            2. Mostrar la edad de la persona          						     >>"<<endl;
-	    std::cout<<"         >>            3. Mostrar el indice comporal y felicilitarlo si se encuentra bien    <<"<<endl;
+	    std::cout<<"         >>            3. Mostrar el indice corporal y felicitarlo si se encuentra bien    <<"<<endl;
 	    std::cout<<"         <<            4. Guardar los datos en un archivo .txt   					       >>"<<endl;
 	    std::cout<<"         >>            5. Recuperar los datos desde el archivo  .txt     				      <<"<<endl;
 	    std::cout<<"         >>            6. SALIR                      										  <<"<<endl;
@@ -42,7 +42,7 @@ int main() {
 				getline(cin, vacio);
             	std::cout << "Ingrese el Nombre\n";
 				getline(cin, nomb);
-				std::cout << "Ingrese el Apelido\n";
+				std::cout << "Ingrese el Apellido\n";
 				getline(cin, ape);
 				std::cout << "Ingrese la Cedula\n";
 				getline(cin, ced);

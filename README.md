@@ -4,7 +4,7 @@
 ![](https://4.bp.blogspot.com/-wVh72KjMVOc/WRpbSYryjRI/AAAAAAAAL7M/-Ue9b4JDvekwtu8KxWuRn3i_i3SdHh0gwCLcB/s1600/Encabezados-de-Blog.gif)
 
 
-**Table of Contents**
+**Tabla de contenido**
 
 [TOCM]
 
@@ -18,6 +18,7 @@
 
 
 ![](https://avatars.githubusercontent.com/u/86116060?v=4)
+
 ####Nombre y Apellido del participante:
 Genesis Simisterra
 #### Descipcion:
@@ -27,6 +28,7 @@ Encarga de ingresar los datos personales del usuario como su nombre, apellido, a
 
 
 ![](https://avatars.githubusercontent.com/u/86172650?v=4)
+
 ####Nombre y Apellido del participante:
 Kevin Antonio Tapuy Cañola
 #### Descipcion:
@@ -35,6 +37,7 @@ Encarga de ingresar los datos personales del usuario como su nombre, apellido, a
 
 ------------
 ![](https://avatars.githubusercontent.com/u/86218442?v=4)
+
 ####Nombre y Apellido del participante:
 Clarisa Ortiz Castillo
 #### Descipcion:
@@ -44,6 +47,7 @@ Encargado crear un codigo para  visualizar la edad del usurio, al mismo tiempo c
 
 
 ![](https://avatars.githubusercontent.com/u/86115235?v=4)
+
 ####Nombre y Apellido del participante:
 Cristopher Justyn Tigua Vivero
 #### Descipcion:

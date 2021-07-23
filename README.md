@@ -243,3 +243,46 @@ Los archivos utilizados para la cracion del codigo son:
 ------------
 ##**DescripcionðŸ“‹**
 El  codigo funciona de la siguiente manera mediante un class ( clase ) y un menu, se implento archivos.h con el nombre de colaborador, en elllos se encuentran los diferentes procesos que pide como clacular la edad de una persona asi como visualidar su informacion persona, en el colaborador1 se puso en marcha las siguientes funciones como (** void GetInfor(Persona){} y Persona PosInfor()**)practicamente hambas son para la obtencion de informacion, colaborador2 se usaron las funciones (**void GetEdad**) tecnicamente son lo mismo para el colaborador1, en el colaborador3 se usaron funciones como (**private y public**) para permitir la inforamcion a pocos usuarios, ya apertir del colaboarador4 se usaron funciones como (**void GuardarArchivo(Persona per){} y void LeerArchivo(){}**) para guardar y ller la informacion para finalizar en el colaborador5 se utilizo funciones como (**destructor y constructor **) utililes para desttruir y construir objetos.
+------------
+
+
+
+##**InstalacionðŸ’»**
+
+**1.**Entrar al repositorio donde se encuentra el ejercicio mediante este  [link](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo "link").
+
+------------
+
+
+**2.**Despues que estres dentro del respositorio preciosa o dale clic en (***code***). 
+![](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/Pasos%20para%20descargar%20el%20codigo%20en%20pc/2.jpg?raw=true)
+
+------------
+
+
+**3.**Despues de ahaber realizado el segundo paso ahora tenemos que dar clic en la opcion de (***descargar ZiP***).
+![](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/Pasos%20para%20descargar%20el%20codigo%20en%20pc/3.jpg?raw=true)
+
+------------
+
+
+**4.**Guardar el archivo ZiP en la ruta de descarga predeterminada. 
+![](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/Pasos%20para%20descargar%20el%20codigo%20en%20pc/4.jpg?raw=true)
+
+------------
+
+
+**5.**Esperamos que descarge el archivo ZiP.
+![](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/Pasos%20para%20descargar%20el%20codigo%20en%20pc/5.jpg?raw=true)
+
+------------
+
+
+**6.**Verificar que el archivo haiga sido descargado satisfactoriamente.
+![](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/Pasos%20para%20descargar%20el%20codigo%20en%20pc/6.png?raw=true)
+
+
+* Si no cuenta con winrar pulse [descaragar](https://www.winrar.es/descargas "descaragar") para conseguir el prgrama e poder extraer el archivo.
+
+
+------------

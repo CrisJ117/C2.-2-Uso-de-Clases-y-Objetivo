@@ -19,6 +19,7 @@
 ![](https://avatars.githubusercontent.com/u/86116060?v=4)
 
 
+
 ####♦Nombre y Apellido del participante♦
 Genesis Simisterra
 #### ♦Descipcion♦
@@ -30,6 +31,7 @@ Encarga de ingresar los datos personales del usuario como su nombre, apellido, a
 ![](https://avatars.githubusercontent.com/u/86172650?v=4)
 
 
+
 ####♦Nombre y Apellido del participante♦
 Kevin Antonio Tapuy Cañola
 #### ♦Descipcion♦
@@ -38,6 +40,7 @@ Encarga de ingresar los datos personales del usuario como su nombre, apellido, a
 
 ------------
 ![](https://avatars.githubusercontent.com/u/86218442?v=4)
+
 
 
 ####♦Nombre y Apellido del participante♦
@@ -51,10 +54,13 @@ Encargado crear un codigo para  visualizar la edad del usurio, al mismo tiempo c
 ![](https://avatars.githubusercontent.com/u/86115235?v=4)
 
 
+
 ####♦Nombre y Apellido del participante♦
 Cristopher Justyn Tigua Vivero
 ####♦ Descipcion♦
 Encargado crear un codigo para recuperar la información que se guarda en colaborador4.h, usando constructor y destructor a demas tambien calculo el índice corporal de un persona introduciendo un mensaje que indica si la persona tiene sobre peso o esta muy delgada, definio una class persona con el apodos de pass para que busque la line del código mas rápido para futuras modificaciones del codigo, para mas detalle sobre esta codificacion de clic [aqui](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/colaborador5.h"aqui"). 
+
+
 ------------
 
 

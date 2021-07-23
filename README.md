@@ -47,8 +47,11 @@ Encargado crear un codigo para  visualizar la edad del usurio, al mismo tiempo c
 Cristopher Justyn Tigua Vivero
 ####♦ Descipcion♦
 Encargado crear un codigo para recuperar la información que se guarda en colaborador4.h, usando constructor y destructor a demas tambien calculo el índice corporal de un persona introduciendo un mensaje que indica si la persona tiene sobre peso o esta muy delgada, definio una class persona con el apodos de pass para que busque la line del código mas rápido para futuras modificaciones del codigo, para mas detalle sobre esta codificacion de clic [aqui](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/colaborador5.h"aqui"). 
+------------
 
 
+
+###**Composicio✨**
 ------------
 Los archivos utilizados para la cracion del codigo son:
 🙋‍♀️[colaborador1.h](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/colaborador1.h "colaborador1.h")
@@ -286,3 +289,33 @@ El  codigo funciona de la siguiente manera mediante un class ( clase ) y un menu
 
 
 ------------
+
+##**Ejecucion📎**
+**1.**Descargamos C++ si no cuentas con el,  presiona [C](https://bloodshed-dev-c.softonic.com/descargar "C") para descarga el progrma.
+
+------------
+
+**2.**Abrimos el programa para ejecutar el codigo.
+![](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/ejecucion/8.jpg?raw=true)
+
+------------
+
+**3.**Ya estando dentro del programa presionamos control+o para abrir la carpe contenedora del archivo  luego abrimos. 
+![](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/ejecucion/9.jpg?raw=true)
+
+------------
+
+**4.**Abrimos la carpeta contenedora, elejimos los archivos y luego damos en abrir.
+![](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/ejecucion/10.jpg?raw=true)
+
+------------
+
+**5.**Para finalizar presionamos ***F11*** para compilar y correr el programa.
+![](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/ejecucion/11.jpg?raw=true)
+* Cabe recalcar que esta explicacion sobre la  **ejecucion**solo funciona para el sistema operativo Windorws.
+* Si desea ejecutar el programa en Linux persiona [ejecutame](https://www.youtube.com/watch?v=L5KW0MugCug "ejecutame") para ver un video explicando como.
+* Item C
+
+
+
+###End

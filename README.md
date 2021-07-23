@@ -17,6 +17,8 @@
 
 
 ![](https://avatars.githubusercontent.com/u/86116060?v=4)
+
+
 ####♦Nombre y Apellido del participante♦
 Genesis Simisterra
 #### ♦Descipcion♦
@@ -26,6 +28,8 @@ Encarga de ingresar los datos personales del usuario como su nombre, apellido, a
 
 
 ![](https://avatars.githubusercontent.com/u/86172650?v=4)
+
+
 ####♦Nombre y Apellido del participante♦
 Kevin Antonio Tapuy Cañola
 #### ♦Descipcion♦
@@ -34,6 +38,8 @@ Encarga de ingresar los datos personales del usuario como su nombre, apellido, a
 
 ------------
 ![](https://avatars.githubusercontent.com/u/86218442?v=4)
+
+
 ####♦Nombre y Apellido del participante♦
 Clarisa Ortiz Castillo
 #### ♦Descipcion♦
@@ -43,6 +49,8 @@ Encargado crear un codigo para  visualizar la edad del usurio, al mismo tiempo c
 
 
 ![](https://avatars.githubusercontent.com/u/86115235?v=4)
+
+
 ####♦Nombre y Apellido del participante♦
 Cristopher Justyn Tigua Vivero
 ####♦ Descipcion♦
@@ -244,10 +252,15 @@ Los archivos utilizados para la cracion del codigo son:
 
 
 ------------
-##**DescripcionðŸ“‹**
-El  codigo funciona de la siguiente manera mediante un class ( clase ) y un menu, se implento archivos.h con el nombre de colaborador, en elllos se encuentran los diferentes procesos que pide como clacular la edad de una persona asi como visualidar su informacion persona, en el colaborador1 se puso en marcha las siguientes funciones como (** void GetInfor(Persona){} y Persona PosInfor()**)practicamente hambas son para la obtencion de informacion, colaborador2 se usaron las funciones (**void GetEdad**) tecnicamente son lo mismo para el colaborador1, en el colaborador3 se usaron funciones como (**private y public**) para permitir la inforamcion a pocos usuarios, ya apertir del colaboarador4 se usaron funciones como (**void GuardarArchivo(Persona per){} y void LeerArchivo(){}**) para guardar y ller la informacion para finalizar en el colaborador5 se utilizo funciones como (**destructor y constructor **) utililes para desttruir y construir objetos.
-------------
 
+
+
+
+##**Descripcion📋**
+El  codigo funciona de la siguiente manera mediante un class ( clase ) y un menu, se implento archivos.h con el nombre de colaborador, en elllos se encuentran los diferentes procesos que pide como clacular la edad de una persona asi como visualidar su informacion persona, en el colaborador1 se puso en marcha las siguientes funciones como (** void GetInfor(Persona){} y Persona PosInfor()**)practicamente hambas son para la obtencion de informacion, colaborador2 se usaron las funciones (**void GetEdad**) tecnicamente son lo mismo para el colaborador1, en el colaborador3 se usaron funciones como (**private y public**) para permitir la inforamcion a pocos usuarios, ya apertir del colaboarador4 se usaron funciones como (**void GuardarArchivo(Persona per){} y void LeerArchivo(){}**) para guardar y ller la informacion para finalizar en el colaborador5 se utilizo funciones como (**destructor y constructor **) utililes para desttruir y construir objetos.
+
+
+------------
 
 
 ##**InstalacionðŸ’»**

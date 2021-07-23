@@ -1,52 +1,25 @@
-
-# Clases y Objetos 
-
-![](https://4.bp.blogspot.com/-wVh72KjMVOc/WRpbSYryjRI/AAAAAAAAL7M/-Ue9b4JDvekwtu8KxWuRn3i_i3SdHh0gwCLcB/s1600/Encabezados-de-Blog.gif)
-
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-
-
-###Participantes 👏
-
-------------
-
-
-![](https://avatars.githubusercontent.com/u/86116060?v=4)
-####Nombre y Apellido del participante:
-Genesis Simisterra
-#### Descipcion:
-Encarga de ingresar los datos personales del usuario como su nombre, apellido, altura, peso, edad y fecha nacimiento, parar ello se crea una clase llamada **Persona. per** se utilizo un **void persona per****** para ingresar los datos, para mas informacion sobre la modicicacion e participacion de este usuario de clic [aqui](https://github.com/GENESI-SIMISTERRA-PEREA "aqui"), 
-
-------------
-
-
-![](https://avatars.githubusercontent.com/u/86172650?v=4)
-####Nombre y Apellido del participante:
-Kevin Antonio Tapuy Cañola
-#### Descipcion:
-Encarga de ingresar los datos personales del usuario como su nombre, apellido, altura, peso, edad y fecha nacimiento, parar ello se crea una clase llamada **Persona. per** se utilizo un **void persona per****** para ingresar los datos, para mas informacion sobre la modicicacion e participacion de este usuario de clic [aqui](https://github.com/ke212002), 
-
-
-------------
-![](https://avatars.githubusercontent.com/u/86218442?v=4)
-####Nombre y Apellido del participante:
-Clarisa Ortiz Castillo
-#### Descipcion:
-Encargado crear un codigo para  visualizar la edad del usurio, al mismo tiempo calular la edad apartir de la fecha de nacimiento, para mas detalle sobre esta codificacion de clic [aqui](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/colaborador4.h "aqui"). 
-
-------------
-
-
-![](https://avatars.githubusercontent.com/u/86115235?v=4)
-####Nombre y Apellido del participante:
-Cristopher Justyn Tigua Vivero
-#### Descipcion:
-Encargado crear un codigo para recuperar la información que se guarda en colaborador4.h, usando constructor y destructor a demas tambien calculo el índice corporal de un persona introduciendo un mensaje que indica si la persona tiene sobre peso o esta muy delgada, definio una class persona con el apodos de pass para que busque la line del código mas rápido para futuras modificaciones del codigo, para mas detalle sobre esta codificacion de clic [aqui](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/colaborador5.h"aqui"). 
-##Descripcion📋
-El  codigo funciona de la siguiente manera mediante un class ( clase ) y un menu, se implento archivos.h con el nombre de colaborador, en elllos se encuentran los diferentes procesos que pide como clacular la edad de una persona asi como visualidar su informacion persona, en el colaborador1 se puso en marcha las siguientes funciones como (** void GetInfor(Persona){} y Persona PosInfor()**)practicamente hambas son para la obtencion de informacion, colaborador2 se usaron las funciónes como (**destructor y constructor **) utililes para desttruir y construir objetos.
+PARTICIPANTES:
+- Genesi Simisterra .- colaborador 1     
+- Tigua Vivero      .- colaborador 2
+-	Clarisa Stefania  .- colaborador 2
+-	Kevin Antonio     .- colaborador 4
+COMPOSICION:
+- main.cpp          .- se utiliza la clase persona y se usa la libreria iostream y stdlib.h
+- Persona.h         .- aqui se declara la clase que se usara en el resto de archivos
+- colaborador1.h    .- se utiliza la clase persona y se declara la funcion GetInfor y PosInfor
+- colaborador2.h    .- se utiliza la clase persona y se declara la funcion GetEdad
+- colaborador3.h    .- se utiliza la clase persona y se declara la funcion GetPeso
+- colaborador4.h    .- se utiliza la clase persona y se declara la funcion GuardarArchivo y LeerArchivo
+DESCRIPCION:
+-main.cpp           .- en la funcion principal se declara la clase persona y las variables que se van a requererir para hacer funcionar el programa
+                       creamos un menu que llamara a las funciones de los diferentes archivos colaboradors
+-GetInfor           .- en esta funcion recibo una clase persona para mostrar por pantalla los atributos de esta clase
+-PosInfor           .- en esta funcion recibo los atributos necesarios para crear una clase persona y retornar la clase creada
+-GetEdad            .- en esta funcion recibo una clase persona para calcular la edad en base a la fecha de nacimiento ingresada  mostrar por pantalla
+-GetPeso            .- en esta funcion recibo una clase persona para verificar si el peso esta dentro de los parametros normales y mostrar el resultado en base a ello
+-GuardarArchivo     .- en esta funcion recibo una clase persona y la guardo en un archivo txt
+-LeerArchivo        .- en esta funcion recibo una leo un archivo txt para obtener los datos guardados
+INSTALACION:
+lo unico que debemos realizar es descargar en archivo fuente que nos da github en la rama principal
+EJECUCION:
+una vez descargado solo descomprimimos el archivo y lo abrimos mediante el uso del c++

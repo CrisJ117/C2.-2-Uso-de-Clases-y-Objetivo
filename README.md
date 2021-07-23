@@ -12,7 +12,7 @@
 
 
 
-###Participantes 👏
+###**Participantes 👏**
 
 ------------
 
@@ -54,7 +54,7 @@ Encargado crear un codigo para recuperar la información que se guarda en colabo
 
 
 
-###Composicio✨
+###**Composicio✨**
 ------------
 Los archivos utilizados para la cracion del codigo son:
 🙋‍♀️[colaborador1.h](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo/blob/main/colaborador1.h "colaborador1.h")
@@ -251,12 +251,12 @@ Los archivos utilizados para la cracion del codigo son:
 
 
 
-##Descripcion📋
+##**Descripcion📋**
 El  codigo funciona de la siguiente manera mediante un class ( clase ) y un menu, se implento archivos.h con el nombre de colaborador, en elllos se encuentran los diferentes procesos que pide como clacular la edad de una persona asi como visualidar su informacion persona, en el colaborador1 se puso en marcha las siguientes funciones como (** void GetInfor(Persona){} y Persona PosInfor()**)practicamente hambas son para la obtencion de informacion, colaborador2 se usaron las funciones (**void GetEdad**) tecnicamente son lo mismo para el colaborador1, en el colaborador3 se usaron funciones como (**private y public**) para permitir la inforamcion a pocos usuarios, ya apertir del colaboarador4 se usaron funciones como (**void GuardarArchivo(Persona per){} y void LeerArchivo(){}**) para guardar y ller la informacion para finalizar en el colaborador5 se utilizo funciones como (**destructor y constructor **) utililes para desttruir y construir objetos.
 
 
 
-##Instalacion💻
+##**Instalacion💻**
 
 **1.**Entrar al repositorio donde se encuentra el ejercicio mediante este  [link](https://github.com/CrisJ117/C2.-2-Uso-de-Clases-y-Objetivo "link").
 
@@ -296,7 +296,7 @@ El  codigo funciona de la siguiente manera mediante un class ( clase ) y un menu
 
 ------------
 
-##Ejecucion📎
+##**Ejecucion📎**
 **1.**Descargamos C++ si no cuentas con el,  presiona [C](https://bloodshed-dev-c.softonic.com/descargar "C") para descarga el progrma.
 
 ------------
